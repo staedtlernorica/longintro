@@ -1,5 +1,5 @@
-Hey there, I'm Long, a front end developer from Toronto, and a recent grad from Juno College's Web Deb Bootcamp. 
+Hey there, I'm Long, a front end developer with a background in statistics and life sciences. I love to create fun and useful apps, especially if that app can make the user's day more convenient. I often find inspiration for these apps from my own daily small inconveniences. 
 
-I love using web technologies to solve everyday problems and simplify small daily interactions to make life easier. My tech stack indludes HTML, CSS/SCSS, JavaScript/jQuery, React, Git, Firebase and Python. I'm also familiar with API's, such as REST, or dedicated tools like the Youtube API v3.
+I have experience building accessible, intuitive web applications with HTML/CSS/JS, SCSS, jQuery, React, Firebase, Python and Git (wouldn't it be funny if I'm on GitHub but didn't know how to use Git?) I also have experience working with API, wireframing, and pair programming. 
 
-I'm currently learning Vue.js, as well as looking for full-time opportunities to work on applications that positively impacts users. You can see an overview of all my projects at my [portfolio](https://longvuong.ca), as well ways to get in touch with me.
+You can find all my projects in more details at my portfolio [longvuong.ca](https://longvuong.ca), as well ways to get in touch with me.
